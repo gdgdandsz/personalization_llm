@@ -1,0 +1,1541 @@
+Unnamed: 0,Unnamed..0,B_COUNTRY_ALPHA,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q19,Q20,Q21,Q22,Q23,Q24,Q25,Q26,Q27,Q28,Q29,Q30,Q31,Q32,Q33,Q34,Q35,Q36,Q37,Q38,Q39,Q40,Q41,Q42,Q43,Q44,Q45,Q260,Q262,Q263,Q264,Q265,Q266,Q267,Q268,Q269,Q270,Q271,Q272,Q273,Q274,Q275,Q276,Q277,Q278,Q279,Q280,Q281,Q282,Q283,Q284,Q285,Q286,Q287,Q288,Q289,Q290,Background_Prompt,is_male,is_female,age,is_immigrant,local_born,mom_is_immigrant,mom_local_born,dad_is_immigrant,dad_local_born,country_factor,country_factorAND,country_factorARG,country_factorARM,country_factorAUS,country_factorBGD,country_factorBOL,country_factorBRA,country_factorCAN,country_factorCHL,country_factorCHN,country_factorCOL,country_factorCYP,country_factorCZE,country_factorDEU,country_factorECU,country_factorEGY,country_factorETH,country_factorGBR,country_factorGRC,country_factorGTM,country_factorHKG,country_factorIDN,country_factorIRN,country_factorIRQ,country_factorJOR,country_factorJPN,country_factorKAZ,country_factorKEN,country_factorKGZ,country_factorKOR,country_factorLBN,country_factorLBY,country_factorMAC,country_factorMAR,country_factorMDV,country_factorMEX,country_factorMMR,country_factorMNG,country_factorMYS,country_factorNGA,country_factorNIC,country_factorNIR,country_factorNLD,country_factorNZL,country_factorPAK,country_factorPER,country_factorPHL,country_factorPRI,country_factorROU,country_factorRUS,country_factorSGP,country_factorSRB,country_factorSVK,country_factorTHA,country_factorTJK,country_factorTUN,country_factorTUR,country_factorTWN,country_factorUKR,country_factorURY,country_factorUSA,country_factorVEN,country_factorVNM,country_factorZWE,family_num,no_parents,own_parents,parents_in_law,both_parents,married,living_together_as_married,Divorced,Separated,Widowed,Single,Q275_clean,early_childhood,primary,lower_secondary,upper_secondary,post_secondary,short_cycle_tertiary,bachelor,master,doctoral,employment_clean,full_time,part_time,self_employed,retired,housewife,student,unemployed,other,occupational_group_clean,never_had_job,professional_technical,higher_admin,clerical,sales,service,skilled_worker,semi_skilled_worker,unskilled_worker,farm_worker,farm_owner_manager,occupation_other,is_chief_earner,not_chief_earner,income_level,income_low,income_middle,income_high,religion_clean,no_denomination,roman_catholic,protestant,orthodox,jew,muslim,hindu,buddhist,other_christian,religion_other,Region,Higher_Education,Cluster_Labels
+35882,35882,IDN,1,1,1,3,1,1,1,1,2,2,2,1,2,2,1,1,2,1,2,1,2,2,2,2,1,1,1,3,2,2,2,1,1,1,1,5,2,2,1,3,2,2,3,3,1,2,33,1,1,1,360,360,360,1,3,1,1890,1,2,2,3,2,3,5,1,0,7,1,-3,2,1,5,1,5,360999," Female
+ 33 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 3 member in the respondent's family
+does not live with parents
+ Married
+Has 2 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Housewife not otherwise employed employment 
+- Spouse is Full-time employment.
+- Occupational group: Never had a job
+- Spouse's group: Semi-skilled worker (e.g., bricklayer, bus driver, carpenter)
+- Father's group: Professional and technical (e.g., doctor, teacher, engineer, accountant, nurse)
+- belongs to Not applicable; Never had a job sector
+- Not chief wage earner in the house.
+Saved money
+Social Lower class
+Muslim
+Lowest income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,33,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,1,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,5,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+35709,35709,IDN,1,2,1,3,1,1,2,1,1,1,2,2,2,2,1,2,1,1,2,2,2,1,2,1,2,2,1,4,2,3,4,1,2,1,4,5,1,1,4,1,1,2,1,1,1,2,24,1,1,1,360,360,360,1,14,2,9900,1,2,2,3,3,2,5,1,0,8,7,-3,2,3,2,5,2,360999," Female
+ 24 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 14 member in the respondent's family
+Live with own parent(s)
+ Married
+Has 2 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Housewife not otherwise employed employment 
+- Spouse is Full-time employment.
+- Occupational group: Never had a job
+- Spouse's group: Unskilled worker (e.g., labourer, cleaner)
+- Father's group: Semi-skilled worker (e.g., bricklayer, bus driver, carpenter)
+- belongs to Not applicable; Never had a job sector
+- Not chief wage earner in the house.
+Spent some savings and borrowed money
+Social Upper middle class
+Protestant
+Medium-high income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,24,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,1,0,0,1,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,5,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Middle,0,1,0,2,0,0,1,0,0,0,0,0,0,0,African_Islamic,Other Education,0
+35738,35738,IDN,1,1,3,4,1,1,2,2,1,1,2,2,2,1,1,1,2,1,2,2,1,2,1,1,1,1,1,3,2,2,4,1,1,2,3,4,2,2,4,1,2,2,1,3,1,2,27,1,1,1,360,360,360,1,6,2,1890,6,0,2,-3,1,0,7,-3,0,-3,7,-3,2,2,3,1,2,360999," Female
+ 27 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 6 member in the respondent's family
+Live with own parent(s)
+ Single
+Has 0 children
+Education level: Other Education
+- Spouse Education level: Unknown
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Unemployed employment 
+- Spouse is No applicable/No spouse employment.
+- Occupational group: Never had a job
+- Spouse's group: No applicable/No spouse
+- Father's group: Semi-skilled worker (e.g., bricklayer, bus driver, carpenter)
+- belongs to Not applicable; Never had a job sector
+- Not chief wage earner in the house.
+Just got by
+Social Lower middle class
+Protestant
+Lowest income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,27,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,7,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Low,1,0,0,2,0,0,1,0,0,0,0,0,0,0,African_Islamic,Other Education,0
+34070,34070,IDN,1,2,1,3,1,1,1,1,2,1,2,1,2,2,1,2,2,1,2,1,2,1,2,2,1,2,1,3,1,4,4,2,4,2,2,5,1,2,2,2,4,1,3,1,1,2,33,1,1,1,360,360,360,1,8,2,2030,1,3,3,3,3,3,3,3,4,7,3,2,2,1,2,8,5,360004," Female
+ 33 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 8 member in the respondent's family
+Live with own parent(s)
+ Married
+Has 3 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Self-employed employment 
+- Spouse is Self-employed employment.
+- Occupational group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Spouse's group: Semi-skilled worker (e.g., bricklayer, bus driver, carpenter)
+- Father's group: Clerical (e.g., secretary, clerk, civil servant)
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Saved money
+Social Upper middle class
+Muslim
+Upper high income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,33,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,1,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,3,0,0,1,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,High,0,0,1,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+33016,33016,IDN,1,2,1,2,1,1,1,1,1,1,2,2,1,2,2,2,2,1,2,1,2,1,2,1,1,2,1,3,1,3,3,3,3,1,4,4,1,1,2,1,2,2,3,1,2,1,18,1,1,1,360,360,360,1,3,2,410,6,0,3,-3,1,3,2,-3,5,-3,10,2,1,3,4,2,5,360009," Male
+ 18 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 3 member in the respondent's family
+Live with own parent(s)
+ Single
+Has 0 children
+Education level: Other Education
+- Spouse Education level: Unknown
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Part-time employment 
+- Spouse is No applicable/No spouse employment.
+- Occupational group: Service (e.g., restaurant owner, police officer, barber)
+- Spouse's group: No applicable/No spouse
+- Father's group: Farm owner or manager
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Spent some savings and borrowed money
+Social Working class
+Muslim
+Low income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,18,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,1,3,0,0,0,1,0,0,0,0,0,2,0,1,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+73187,73187,SGP,1,2,2,4,1,1,1,1,1,1,2,1,2,2,2,2,2,1,2,1,2,1,2,1,2,2,1,3,3,3,3,2,3,2,3,4,2,2,2,2,4,2,3,1,1,2,53,2,2,2,360,360,360,2,2,1,1240,3,1,5,-3,0,0,1,-3,5,-3,5,2,2,2,3,4,5,702999," Female
+ 53 years old
+ An immigrant
+Mother is an Immigrant
+Father is an Immigrant
+Indonesia
+No. the respondent is not a citizen of this country
+- There are 2 member in the respondent's family
+does not live with parents
+ Divorced
+Has 1 children
+Education level: Higher Education
+- Spouse Education level: Unknown
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Full-time employment 
+- Spouse is No applicable/No spouse employment.
+- Occupational group: Service (e.g., restaurant owner, police officer, barber)
+- Spouse's group: No applicable/No spouse
+- Father's group: Service (e.g., restaurant owner, police officer, barber)
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Just got by
+Social Lower middle class
+Muslim
+Medium income group
+Unknown ethnic group
+Cultural region: West_South_Asia",0,1,53,1,0,1,0,1,0,SGP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,West_South_Asia,Higher Education,0
+35730,35730,IDN,1,2,3,4,1,1,1,1,2,1,2,2,2,1,2,2,1,2,2,2,2,1,2,1,2,1,3,4,3,4,1,1,3,5,1,1,5,2,4,3,1,2,1,2,1,2,37,1,1,1,360,360,360,1,9,1,1890,1,8,1,2,1,3,5,1,0,3,6,-3,2,1,5,1,2,360002," Female
+ 37 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 9 member in the respondent's family
+does not live with parents
+ Married
+Has 8 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Housewife not otherwise employed employment 
+- Spouse is Full-time employment.
+- Occupational group: Never had a job
+- Spouse's group: Clerical (e.g., secretary, clerk, civil servant)
+- Father's group: Skilled worker (e.g., foreman, electrician, printer)
+- belongs to Not applicable; Never had a job sector
+- Not chief wage earner in the house.
+Saved money
+Social Lower class
+Protestant
+Lowest income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,37,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,5,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Low,1,0,0,2,0,0,1,0,0,0,0,0,0,0,African_Islamic,Other Education,0
+34618,34618,IDN,1,1,1,3,1,1,2,1,2,1,2,1,1,2,1,2,2,2,2,1,2,1,2,2,1,2,2,3,3,3,3,1,3,3,4,3,4,2,4,4,1,2,3,3,3,2,29,1,1,1,360,360,360,1,4,1,2030,1,2,3,2,-1,6,3,1,8,9,6,2,2,2,4,5,5,360004," Female
+ 29 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 4 member in the respondent's family
+does not live with parents
+ Married
+Has 2 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Unknown
+- Father Education level: Higher Education
+Self-employed employment 
+- Spouse is Full-time employment.
+- Occupational group: Unskilled worker (e.g., labourer, cleaner)
+- Spouse's group: Farm worker (e.g., farm labourer, tractor driver)
+- Father's group: Skilled worker (e.g., foreman, electrician, printer)
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Just got by
+Social Working class
+Muslim
+Medium-high income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,29,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,3,0,0,1,0,0,0,0,0,8,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+35282,35282,IDN,1,2,2,2,1,1,1,2,2,1,2,2,1,2,1,2,1,1,2,1,2,1,2,2,1,2,1,3,2,3,3,3,2,1,4,4,1,2,2,2,2,1,1,1,1,1,25,1,1,1,360,360,360,1,5,2,1890,6,0,5,-3,1,1,1,-3,8,-3,10,2,2,3,5,1,2,360999," Male
+ 25 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 5 member in the respondent's family
+Live with own parent(s)
+ Single
+Has 0 children
+Education level: Higher Education
+- Spouse Education level: Unknown
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Full-time employment 
+- Spouse is No applicable/No spouse employment.
+- Occupational group: Unskilled worker (e.g., labourer, cleaner)
+- Spouse's group: No applicable/No spouse
+- Father's group: Farm owner or manager
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Spent some savings and borrowed money
+Social Lower class
+Protestant
+Lowest income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,25,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,1,5,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Low,1,0,0,2,0,0,1,0,0,0,0,0,0,0,African_Islamic,Higher Education,0
+33466,33466,IDN,1,2,1,4,1,1,2,1,1,2,2,2,2,1,1,2,2,1,2,1,2,1,2,1,2,2,1,4,3,3,3,2,2,1,2,2,2,1,1,2,2,2,1,1,1,2,73,1,1,1,360,360,360,1,1,1,2030,5,5,3,6,1,1,3,1,4,2,4,2,1,1,5,1,1,360002," Female
+ 73 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 1 member in the respondent's family
+does not live with parents
+ Widowed
+Has 5 children
+Education level: Other Education
+- Spouse Education level: Higher Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Self-employed employment 
+- Spouse is Full-time employment.
+- Occupational group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Spouse's group: Higher administrative (e.g., banker, executive, union official)
+- Father's group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Saved money
+Social Lower class
+Roman Catholic
+Lowest income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,73,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,3,0,0,0,1,0,0,0,0,0,3,0,0,1,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Low,1,0,0,1,0,1,0,0,0,0,0,0,0,0,African_Islamic,Other Education,0
+34442,34442,IDN,1,1,1,2,1,1,1,1,1,1,2,1,2,2,2,2,2,1,2,1,1,1,2,1,1,2,2,3,2,3,3,2,2,4,4,4,2,2,4,4,2,1,1,1,3,2,32,1,1,1,360,360,360,1,4,1,2030,1,2,3,2,1,0,5,1,-2,6,10,2,2,3,2,5,5,360004," Female
+ 32 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 4 member in the respondent's family
+does not live with parents
+ Married
+Has 2 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Housewife not otherwise employed employment 
+- Spouse is Full-time employment.
+- Occupational group: No answer
+- Spouse's group: Skilled worker (e.g., foreman, electrician, printer)
+- Father's group: Farm owner or manager
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Spent some savings and borrowed money
+Social Upper middle class
+Muslim
+Medium-high income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,32,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,5,0,0,0,0,1,0,0,0,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+33486,33486,IDN,1,3,4,1,1,2,1,1,1,1,2,2,2,2,1,2,2,1,2,1,2,1,2,2,2,2,2,3,2,3,2,2,2,2,2,4,2,2,2,2,1,3,3,1,2,2,47,1,1,1,360,360,360,1,2,1,1890,1,0,1,2,0,0,5,1,-2,7,8,2,2,2,5,1,5,360010," Female
+ 47 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 2 member in the respondent's family
+does not live with parents
+ Married
+Has 0 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Housewife not otherwise employed employment 
+- Spouse is Full-time employment.
+- Occupational group: No answer
+- Spouse's group: Semi-skilled worker (e.g., bricklayer, bus driver, carpenter)
+- Father's group: Unskilled worker (e.g., labourer, cleaner)
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Just got by
+Social Lower class
+Muslim
+Lowest income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,47,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,5,0,0,0,0,1,0,0,0,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+33495,33495,IDN,1,1,2,1,1,1,1,1,2,1,2,1,2,2,1,2,2,1,2,2,1,1,2,2,2,2,1,2,2,2,2,2,2,2,4,4,1,2,2,4,2,3,3,1,1,1,48,1,1,1,360,360,360,1,5,1,1890,1,3,6,5,3,3,1,5,2,0,3,2,1,1,3,6,5,360010," Male
+ 48 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 5 member in the respondent's family
+does not live with parents
+ Married
+Has 3 children
+Education level: Higher Education
+- Spouse Education level: Higher Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Full-time employment 
+- Spouse is Housewife not otherwise employed employment.
+- Occupational group: Higher administrative (e.g., banker, executive, union official)
+- Spouse's group: Never had a job
+- Father's group: Clerical (e.g., secretary, clerk, civil servant)
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Saved money
+Social Lower middle class
+Muslim
+High income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,48,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,0,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Higher Education,0
+33049,33049,IDN,1,2,2,3,1,1,1,1,1,1,2,1,2,2,2,2,2,1,2,1,2,1,2,2,1,2,2,3,2,3,3,2,2,2,4,4,4,2,2,2,4,-1,-1,2,2,2,57,1,1,1,360,360,360,1,3,1,1890,5,4,3,6,2,6,4,3,-2,6,1,1,2,1,3,3,5,360008," Female
+ 57 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 3 member in the respondent's family
+does not live with parents
+ Widowed
+Has 4 children
+Education level: Other Education
+- Spouse Education level: Higher Education
+- Mother Education level: Other Education
+- Father Education level: Higher Education
+Retired employment 
+- Spouse is Self-employed employment.
+- Occupational group: No answer
+- Spouse's group: Skilled worker (e.g., foreman, electrician, printer)
+- Father's group: Professional and technical (e.g., doctor, teacher, engineer, accountant, nurse)
+- belongs to Government or public institution sector
+- Not chief wage earner in the house.
+Saved money
+Social Lower middle class
+Muslim
+Low-medium income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,57,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,1,0,3,0,0,0,1,0,0,0,0,0,4,0,0,0,1,0,0,0,0,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+33208,33208,IDN,1,2,3,2,1,1,2,2,1,1,2,2,1,1,1,2,2,1,1,1,2,2,1,2,1,1,1,4,2,1,2,1,1,5,2,5,2,1,5,2,5,2,1,1,1,1,50,1,1,1,360,360,360,1,4,1,9000,1,2,2,1,0,0,2,3,7,10,10,2,1,2,3,2,5,360999," Male
+ 50 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 4 member in the respondent's family
+does not live with parents
+ Married
+Has 2 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Part-time employment 
+- Spouse is Self-employed employment.
+- Occupational group: Semi-skilled worker (e.g., bricklayer, bus driver, carpenter)
+- Spouse's group: Farm owner or manager
+- Father's group: Farm owner or manager
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Just got by
+Social Lower middle class
+Muslim
+Low income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,50,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,0,1,0,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+34191,34191,IDN,1,2,1,3,1,1,1,2,2,1,2,1,2,2,1,2,1,1,2,2,2,1,2,2,1,2,1,3,2,3,2,1,1,1,4,5,4,2,1,4,4,2,1,3,1,2,34,1,1,1,360,360,360,1,4,1,2030,1,2,3,6,2,2,3,1,4,1,10,2,2,1,3,5,5,360004," Female
+ 34 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 4 member in the respondent's family
+does not live with parents
+ Married
+Has 2 children
+Education level: Other Education
+- Spouse Education level: Higher Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Self-employed employment 
+- Spouse is Full-time employment.
+- Occupational group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Spouse's group: Professional and technical (e.g., doctor, teacher, engineer, accountant, nurse)
+- Father's group: Farm owner or manager
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Saved money
+Social Lower middle class
+Muslim
+Medium-high income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,34,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,3,0,0,1,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+34427,34427,IDN,1,3,1,1,1,1,1,2,1,1,2,2,2,2,1,2,1,1,2,2,1,1,1,2,1,2,1,3,1,3,3,1,4,1,2,4,2,2,1,2,2,3,1,1,1,1,33,1,1,1,360,360,360,1,5,2,2030,6,0,1,-3,1,1,3,-3,4,-3,7,2,2,2,4,5,5,360004," Male
+ 33 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 5 member in the respondent's family
+Live with own parent(s)
+ Single
+Has 0 children
+Education level: Other Education
+- Spouse Education level: Unknown
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Self-employed employment 
+- Spouse is No applicable/No spouse employment.
+- Occupational group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Spouse's group: No applicable/No spouse
+- Father's group: Semi-skilled worker (e.g., bricklayer, bus driver, carpenter)
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Just got by
+Social Working class
+Muslim
+Medium-high income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,33,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+33360,33360,IDN,1,2,3,3,1,1,1,1,1,1,2,2,2,2,1,2,2,1,2,2,1,1,2,1,1,2,2,3,1,3,2,2,4,2,3,5,2,4,4,2,2,2,2,2,3,2,50,1,1,1,360,360,360,1,2,1,4040,1,5,1,1,1,1,3,3,4,4,10,2,2,1,4,7,5,360004," Female
+ 50 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 2 member in the respondent's family
+does not live with parents
+ Married
+Has 5 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Self-employed employment 
+- Spouse is Self-employed employment.
+- Occupational group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Spouse's group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Father's group: Farm owner or manager
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Saved money
+Social Working class
+Muslim
+Very high income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,50,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+32997,32997,IDN,1,2,1,2,1,1,1,1,1,1,2,2,2,2,1,2,2,1,2,2,2,1,2,2,1,2,2,2,2,3,3,2,2,2,4,2,2,2,2,2,2,2,3,1,2,1,36,1,1,1,360,360,360,1,6,1,1890,1,3,3,2,1,1,1,5,9,0,3,2,1,1,4,3,5,360004," Male
+ 36 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 6 member in the respondent's family
+does not live with parents
+ Married
+Has 3 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Full-time employment 
+- Spouse is Housewife not otherwise employed employment.
+- Occupational group: Farm worker (e.g., farm labourer, tractor driver)
+- Spouse's group: Never had a job
+- Father's group: Clerical (e.g., secretary, clerk, civil servant)
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Saved money
+Social Working class
+Muslim
+Low-medium income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,36,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+32770,32770,IDN,1,4,3,1,1,1,1,2,2,1,2,1,2,2,1,2,1,1,2,2,1,2,1,1,1,2,1,4,2,3,2,3,2,1,4,5,2,1,5,1,1,2,1,1,1,2,25,1,1,1,360,360,360,1,5,2,9000,1,1,3,2,1,6,3,2,4,9,1,2,1,1,3,1,5,360007," Female
+ 25 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 5 member in the respondent's family
+Live with own parent(s)
+ Married
+Has 1 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Higher Education
+Self-employed employment 
+- Spouse is Part-time employment.
+- Occupational group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Spouse's group: Farm worker (e.g., farm labourer, tractor driver)
+- Father's group: Professional and technical (e.g., doctor, teacher, engineer, accountant, nurse)
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Saved money
+Social Lower middle class
+Muslim
+Lowest income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,25,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,3,0,0,1,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+34919,34919,IDN,1,2,1,1,1,1,1,1,1,1,2,2,2,2,1,2,2,1,2,1,2,1,2,1,1,2,2,3,2,1,2,2,2,2,4,2,2,2,4,2,2,2,1,1,1,2,57,1,1,1,360,360,360,1,4,1,2030,1,2,2,2,1,1,1,2,4,4,4,2,1,2,3,3,5,360004," Female
+ 57 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 4 member in the respondent's family
+does not live with parents
+ Married
+Has 2 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Full-time employment 
+- Spouse is Part-time employment.
+- Occupational group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Spouse's group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Father's group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Just got by
+Social Lower middle class
+Muslim
+Low-medium income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,57,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+32978,32978,IDN,1,2,2,1,1,1,1,1,2,2,2,1,2,2,1,2,1,1,2,1,2,1,2,2,2,2,1,4,3,3,3,3,2,1,4,4,2,1,2,1,2,3,1,1,1,2,18,1,1,1,360,360,360,1,4,2,1890,6,0,3,-3,1,3,6,-3,-2,-3,6,2,2,1,2,7,5,360004," Female
+ 18 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 4 member in the respondent's family
+Live with own parent(s)
+ Single
+Has 0 children
+Education level: Other Education
+- Spouse Education level: Unknown
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Student employment 
+- Spouse is No applicable/No spouse employment.
+- Occupational group: No answer
+- Spouse's group: No applicable/No spouse
+- Father's group: Skilled worker (e.g., foreman, electrician, printer)
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Saved money
+Social Upper middle class
+Muslim
+Very high income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,18,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,1,3,0,0,0,1,0,0,0,0,0,6,0,0,0,0,0,1,0,0,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+34503,34503,IDN,1,2,2,3,1,1,1,1,1,1,2,2,1,2,2,2,2,1,2,1,1,1,2,2,2,2,1,3,1,3,2,3,4,2,2,5,2,2,1,2,2,3,1,2,3,1,34,1,1,1,360,360,360,1,3,2,2030,6,0,3,-3,0,0,1,-3,6,-3,6,2,1,1,3,2,5,360004," Male
+ 34 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 3 member in the respondent's family
+Live with own parent(s)
+ Single
+Has 0 children
+Education level: Other Education
+- Spouse Education level: Unknown
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Full-time employment 
+- Spouse is No applicable/No spouse employment.
+- Occupational group: Skilled worker (e.g., foreman, electrician, printer)
+- Spouse's group: No applicable/No spouse
+- Father's group: Skilled worker (e.g., foreman, electrician, printer)
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Saved money
+Social Lower middle class
+Muslim
+Low income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,34,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,1,3,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,6,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+32937,32937,IDN,1,2,2,3,1,1,1,1,1,1,2,2,2,1,2,2,2,1,2,1,1,1,2,2,1,2,1,3,2,3,3,3,2,4,4,4,2,2,4,2,2,1,1,1,3,1,55,1,1,1,360,360,360,1,6,1,1890,1,5,3,3,0,0,1,1,9,9,9,2,1,2,4,1,5,360004," Male
+ 55 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 6 member in the respondent's family
+does not live with parents
+ Married
+Has 5 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Full-time employment 
+- Spouse is Full-time employment.
+- Occupational group: Farm worker (e.g., farm labourer, tractor driver)
+- Spouse's group: Farm worker (e.g., farm labourer, tractor driver)
+- Father's group: Farm worker (e.g., farm labourer, tractor driver)
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Just got by
+Social Working class
+Muslim
+Lowest income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,55,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+35374,35374,IDN,1,3,1,3,1,1,1,1,2,1,2,2,1,2,1,2,2,1,2,2,2,2,1,1,2,1,1,4,1,1,1,1,1,1,4,5,1,1,4,2,2,2,3,2,2,1,36,1,1,1,360,360,360,1,2,3,9000,5,2,1,-3,0,0,3,5,10,0,10,2,1,2,5,3,5,360014," Male
+ 36 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 2 member in the respondent's family
+Live with parent(s) in law
+ Widowed
+Has 2 children
+Education level: Other Education
+- Spouse Education level: Unknown
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Self-employed employment 
+- Spouse is Housewife not otherwise employed employment.
+- Occupational group: Farm owner or manager
+- Spouse's group: Never had a job
+- Father's group: Farm owner or manager
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Just got by
+Social Lower class
+Muslim
+Low-medium income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,36,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+35861,35861,IDN,1,1,3,2,1,1,1,1,2,1,2,2,2,2,1,2,1,1,1,1,1,1,2,2,2,2,1,3,2,3,3,3,2,4,4,4,4,2,2,2,2,1,1,1,1,1,25,1,1,1,360,360,360,1,3,1,1890,1,1,3,3,1,2,3,5,10,0,10,2,1,2,2,6,2,360999," Male
+ 25 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 3 member in the respondent's family
+does not live with parents
+ Married
+Has 1 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Self-employed employment 
+- Spouse is Housewife not otherwise employed employment.
+- Occupational group: Farm owner or manager
+- Spouse's group: Never had a job
+- Father's group: Farm owner or manager
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Just got by
+Social Upper middle class
+Protestant
+High income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,25,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,3,0,0,1,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Middle,0,1,0,2,0,0,1,0,0,0,0,0,0,0,African_Islamic,Other Education,0
+35549,35549,IDN,1,3,1,3,1,2,1,2,2,1,2,2,2,1,1,2,1,1,2,1,2,1,2,2,1,2,2,3,3,3,1,3,2,2,4,4,1,2,4,4,4,2,3,2,3,2,34,1,1,1,360,360,360,1,5,1,1890,1,3,2,1,0,0,3,3,4,8,8,2,2,2,5,5,5,360012," Female
+ 34 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 5 member in the respondent's family
+does not live with parents
+ Married
+Has 3 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Self-employed employment 
+- Spouse is Self-employed employment.
+- Occupational group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Spouse's group: Unskilled worker (e.g., labourer, cleaner)
+- Father's group: Unskilled worker (e.g., labourer, cleaner)
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Just got by
+Social Lower class
+Muslim
+Medium-high income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,34,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,1,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+34691,34691,IDN,1,2,2,3,1,1,1,2,2,2,1,2,2,2,1,2,2,1,2,1,2,1,2,2,2,2,2,3,2,3,3,2,2,2,4,5,2,2,4,2,4,1,3,3,1,1,29,1,1,1,360,360,360,1,4,2,2030,1,1,2,2,1,1,1,7,9,0,9,2,1,2,4,4,5,360004," Male
+ 29 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 4 member in the respondent's family
+Live with own parent(s)
+ Married
+Has 1 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Full-time employment 
+- Spouse is Unemployed employment.
+- Occupational group: Farm worker (e.g., farm labourer, tractor driver)
+- Spouse's group: Never had a job
+- Father's group: Farm worker (e.g., farm labourer, tractor driver)
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Just got by
+Social Working class
+Muslim
+Medium income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,29,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,1,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+34906,34906,IDN,1,2,3,4,1,1,1,2,2,1,2,1,2,2,1,2,1,1,1,1,1,1,1,1,1,1,1,4,2,3,2,3,1,2,2,4,2,1,1,1,2,2,1,3,3,2,51,1,1,1,360,360,360,1,2,1,2030,1,5,3,2,1,1,3,4,4,0,10,2,2,1,3,5,5,360004," Female
+ 51 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 2 member in the respondent's family
+does not live with parents
+ Married
+Has 5 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Self-employed employment 
+- Spouse is Retired employment.
+- Occupational group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Spouse's group: Never had a job
+- Father's group: Farm owner or manager
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Saved money
+Social Lower middle class
+Muslim
+Medium-high income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,51,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,3,0,0,1,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+32860,32860,IDN,1,3,2,1,1,1,1,1,1,1,2,1,2,2,2,2,2,1,2,1,2,1,2,1,1,2,1,3,1,3,3,3,1,4,4,4,2,2,2,2,2,2,3,3,1,2,24,1,1,1,360,360,360,1,9,2,9000,1,1,6,3,2,1,5,1,-2,7,8,2,2,1,4,4,5,360007," Female
+ 24 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 9 member in the respondent's family
+Live with own parent(s)
+ Married
+Has 1 children
+Education level: Higher Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Housewife not otherwise employed employment 
+- Spouse is Full-time employment.
+- Occupational group: No answer
+- Spouse's group: Semi-skilled worker (e.g., bricklayer, bus driver, carpenter)
+- Father's group: Unskilled worker (e.g., labourer, cleaner)
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Saved money
+Social Working class
+Muslim
+Medium income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,24,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,1,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,1,0,0,5,0,0,0,0,1,0,0,0,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Higher Education,0
+33619,33619,IDN,1,2,1,1,1,1,1,1,1,1,2,2,2,2,1,2,2,2,2,1,2,2,1,1,1,2,1,2,2,2,2,2,2,2,2,2,2,2,4,2,2,3,1,1,1,1,65,1,1,1,360,360,360,1,4,1,4040,1,2,1,1,1,1,3,5,9,0,1,2,1,2,5,1,5,360005," Male
+ 65 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 4 member in the respondent's family
+does not live with parents
+ Married
+Has 2 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Self-employed employment 
+- Spouse is Housewife not otherwise employed employment.
+- Occupational group: Farm worker (e.g., farm labourer, tractor driver)
+- Spouse's group: Never had a job
+- Father's group: Professional and technical (e.g., doctor, teacher, engineer, accountant, nurse)
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Just got by
+Social Lower class
+Muslim
+Lowest income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,65,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+32940,32940,IDN,1,2,1,4,1,1,1,2,1,1,2,2,2,2,1,1,2,1,2,2,2,2,1,1,1,1,1,3,2,1,2,3,1,2,4,4,4,1,4,4,1,2,1,-1,-1,2,65,1,1,1,360,360,360,1,2,1,2030,1,3,0,1,0,0,5,3,-2,10,9,2,2,2,4,2,5,360004," Female
+ 65 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 2 member in the respondent's family
+does not live with parents
+ Married
+Has 3 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Housewife not otherwise employed employment 
+- Spouse is Self-employed employment.
+- Occupational group: No answer
+- Spouse's group: Farm owner or manager
+- Father's group: Farm worker (e.g., farm labourer, tractor driver)
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Just got by
+Social Working class
+Muslim
+Low income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,65,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,1,0,0,0,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+34134,34134,IDN,1,2,3,3,1,1,1,2,1,2,2,1,2,1,2,1,2,1,2,1,2,1,2,2,1,2,1,3,2,2,2,2,2,1,4,5,2,2,5,4,1,3,2,1,1,1,50,1,1,1,360,360,360,1,4,1,2030,1,5,1,1,0,-1,7,3,-2,4,9,2,2,2,3,3,5,360004," Male
+ 50 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 4 member in the respondent's family
+does not live with parents
+ Married
+Has 5 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Unknown
+Unemployed employment 
+- Spouse is Self-employed employment.
+- Occupational group: No answer
+- Spouse's group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Father's group: Farm worker (e.g., farm labourer, tractor driver)
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Just got by
+Social Lower middle class
+Muslim
+Low-medium income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,50,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,7,0,0,0,0,0,0,1,0,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+33953,33953,IDN,1,1,3,3,1,1,1,2,1,1,2,2,2,2,1,1,2,1,2,1,2,1,2,2,1,2,1,3,1,3,2,1,1,1,5,5,1,2,5,2,2,2,3,3,1,1,44,1,1,1,360,360,360,1,5,1,4040,1,1,1,1,1,1,3,3,10,10,9,2,1,2,3,5,5,360005," Male
+ 44 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 5 member in the respondent's family
+does not live with parents
+ Married
+Has 1 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Self-employed employment 
+- Spouse is Self-employed employment.
+- Occupational group: Farm owner or manager
+- Spouse's group: Farm owner or manager
+- Father's group: Farm worker (e.g., farm labourer, tractor driver)
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Just got by
+Social Lower middle class
+Muslim
+Medium-high income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,44,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+35459,35459,IDN,1,2,3,3,1,1,2,2,2,1,2,1,2,2,1,1,1,2,2,2,2,1,2,2,1,2,2,3,4,1,4,2,1,1,2,4,2,1,2,1,1,1,1,3,2,1,30,1,1,1,360,360,360,1,3,1,410,1,1,1,2,1,1,1,5,8,0,5,2,1,1,4,5,5,360009," Male
+ 30 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 3 member in the respondent's family
+does not live with parents
+ Married
+Has 1 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Full-time employment 
+- Spouse is Housewife not otherwise employed employment.
+- Occupational group: Unskilled worker (e.g., labourer, cleaner)
+- Spouse's group: Never had a job
+- Father's group: Service (e.g., restaurant owner, police officer, barber)
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Saved money
+Social Working class
+Muslim
+Medium-high income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,30,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+33656,33656,IDN,1,3,1,1,1,1,1,1,2,1,2,2,2,2,1,2,2,1,2,2,2,2,2,2,1,2,1,3,1,3,2,3,1,2,2,4,2,2,1,2,4,2,3,3,1,2,36,1,1,1,360,360,360,1,3,1,4040,1,1,1,3,1,1,3,1,4,3,9,2,2,2,3,4,5,360005," Female
+ 36 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 3 member in the respondent's family
+does not live with parents
+ Married
+Has 1 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Self-employed employment 
+- Spouse is Full-time employment.
+- Occupational group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Spouse's group: Clerical (e.g., secretary, clerk, civil servant)
+- Father's group: Farm worker (e.g., farm labourer, tractor driver)
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Just got by
+Social Lower middle class
+Muslim
+Medium income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,36,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+33171,33171,IDN,1,2,1,4,1,1,2,2,2,1,2,2,1,1,1,2,1,1,1,2,1,1,2,2,2,2,1,4,1,1,1,1,2,1,2,4,1,1,1,1,2,2,1,1,1,2,24,1,1,1,360,360,360,1,2,1,2030,1,1,1,2,1,1,5,1,-2,7,10,2,2,3,2,5,5,360004," Female
+ 24 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 2 member in the respondent's family
+does not live with parents
+ Married
+Has 1 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Housewife not otherwise employed employment 
+- Spouse is Full-time employment.
+- Occupational group: No answer
+- Spouse's group: Semi-skilled worker (e.g., bricklayer, bus driver, carpenter)
+- Father's group: Farm owner or manager
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Spent some savings and borrowed money
+Social Upper middle class
+Muslim
+Medium-high income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,24,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,5,0,0,0,0,1,0,0,0,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+34469,34469,IDN,1,1,2,1,1,1,2,2,2,2,2,1,2,1,1,2,2,1,1,1,1,1,1,1,1,1,2,2,1,2,2,2,1,1,4,4,1,1,5,1,1,3,1,1,1,1,76,1,1,1,360,360,360,1,2,1,2030,1,1,2,0,0,0,1,2,9,9,10,2,1,4,5,3,5,360004," Male
+ 76 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 2 member in the respondent's family
+does not live with parents
+ Married
+Has 1 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Full-time employment 
+- Spouse is Part-time employment.
+- Occupational group: Farm worker (e.g., farm labourer, tractor driver)
+- Spouse's group: Farm worker (e.g., farm labourer, tractor driver)
+- Father's group: Farm owner or manager
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Spent savings and borrowed money
+Social Lower class
+Muslim
+Low-medium income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,76,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+33657,33657,IDN,1,3,2,3,3,1,2,1,2,2,2,2,1,2,2,1,1,1,2,1,2,1,2,1,1,2,2,3,2,3,2,2,1,2,4,4,4,4,4,4,4,3,3,2,1,2,42,1,1,1,360,360,360,1,5,1,4040,1,3,0,0,0,0,5,1,-2,9,9,2,2,4,5,3,5,360005," Female
+ 42 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 5 member in the respondent's family
+does not live with parents
+ Married
+Has 3 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Housewife not otherwise employed employment 
+- Spouse is Full-time employment.
+- Occupational group: No answer
+- Spouse's group: Farm worker (e.g., farm labourer, tractor driver)
+- Father's group: Farm worker (e.g., farm labourer, tractor driver)
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Spent savings and borrowed money
+Social Lower class
+Muslim
+Low-medium income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,42,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,1,0,0,0,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+34953,34953,IDN,1,4,1,1,1,1,2,1,2,1,2,2,2,1,1,2,2,1,2,1,2,2,1,2,2,2,2,3,2,2,2,2,2,2,2,4,2,2,4,2,2,3,1,1,3,1,44,1,1,1,360,360,360,1,4,1,2030,1,2,0,2,0,0,1,5,9,0,9,2,1,2,5,1,5,360004," Male
+ 44 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 4 member in the respondent's family
+does not live with parents
+ Married
+Has 2 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Full-time employment 
+- Spouse is Housewife not otherwise employed employment.
+- Occupational group: Farm worker (e.g., farm labourer, tractor driver)
+- Spouse's group: Never had a job
+- Father's group: Farm worker (e.g., farm labourer, tractor driver)
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Just got by
+Social Lower class
+Muslim
+Lowest income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,44,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+35198,35198,IDN,1,3,1,3,1,1,1,1,1,1,2,2,1,2,2,2,2,1,2,1,1,1,2,1,2,2,1,4,4,3,3,2,5,2,4,5,1,1,5,2,1,3,1,2,2,2,41,1,1,1,360,360,360,1,7,1,9000,1,6,3,2,0,1,3,3,10,10,8,2,2,2,3,1,1,360999," Female
+ 41 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 7 member in the respondent's family
+does not live with parents
+ Married
+Has 6 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Self-employed employment 
+- Spouse is Self-employed employment.
+- Occupational group: Farm owner or manager
+- Spouse's group: Farm owner or manager
+- Father's group: Unskilled worker (e.g., labourer, cleaner)
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Just got by
+Social Lower middle class
+Roman Catholic
+Lowest income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,41,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,3,0,0,1,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Low,1,0,0,1,0,1,0,0,0,0,0,0,0,0,African_Islamic,Other Education,0
+34048,34048,IDN,1,2,2,3,1,1,1,2,2,1,2,1,2,2,1,2,1,1,2,1,2,1,2,1,2,2,1,3,2,3,3,2,2,1,2,2,2,2,1,2,2,2,1,1,3,2,33,1,1,1,360,360,360,1,4,1,1890,1,2,3,3,1,2,5,1,-2,4,4,2,2,2,3,5,5,360004," Female
+ 33 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 4 member in the respondent's family
+does not live with parents
+ Married
+Has 2 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Housewife not otherwise employed employment 
+- Spouse is Full-time employment.
+- Occupational group: No answer
+- Spouse's group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Father's group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Just got by
+Social Lower middle class
+Muslim
+Medium-high income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,33,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,5,0,0,0,0,1,0,0,0,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+33177,33177,IDN,1,2,1,3,1,1,1,2,1,1,2,2,2,2,1,2,1,1,2,1,2,1,2,2,1,2,1,3,3,3,3,1,2,1,2,4,1,2,4,4,2,2,3,1,2,1,29,1,1,1,360,360,360,1,4,1,2030,1,2,2,1,0,0,1,5,9,0,10,2,1,3,3,7,5,360004," Male
+ 29 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 4 member in the respondent's family
+does not live with parents
+ Married
+Has 2 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Full-time employment 
+- Spouse is Housewife not otherwise employed employment.
+- Occupational group: Farm worker (e.g., farm labourer, tractor driver)
+- Spouse's group: Never had a job
+- Father's group: Farm owner or manager
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Spent some savings and borrowed money
+Social Lower middle class
+Muslim
+Very high income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,29,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+33027,33027,IDN,1,1,2,3,1,1,1,1,1,1,2,2,2,2,1,2,2,1,2,1,2,2,1,2,1,1,1,3,4,2,3,1,1,4,4,5,1,1,4,1,1,1,3,1,2,2,66,1,1,1,360,360,360,1,2,1,1890,1,7,1,1,1,1,5,3,-2,5,8,2,2,2,5,1,5,360004," Female
+ 66 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 2 member in the respondent's family
+does not live with parents
+ Married
+Has 7 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Housewife not otherwise employed employment 
+- Spouse is Self-employed employment.
+- Occupational group: No answer
+- Spouse's group: Service (e.g., restaurant owner, police officer, barber)
+- Father's group: Unskilled worker (e.g., labourer, cleaner)
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Just got by
+Social Lower class
+Muslim
+Lowest income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,66,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,5,0,0,0,0,1,0,0,0,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+33800,33800,IDN,1,3,2,4,1,1,1,2,2,1,2,2,2,1,1,2,1,1,2,1,2,1,1,1,1,2,2,4,4,1,3,2,4,4,4,5,2,2,4,2,2,3,2,1,1,2,52,1,1,1,360,360,360,1,2,1,4040,1,2,1,1,1,1,3,2,4,7,3,2,2,1,5,1,5,360005," Female
+ 52 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 2 member in the respondent's family
+does not live with parents
+ Married
+Has 2 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Self-employed employment 
+- Spouse is Part-time employment.
+- Occupational group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Spouse's group: Semi-skilled worker (e.g., bricklayer, bus driver, carpenter)
+- Father's group: Clerical (e.g., secretary, clerk, civil servant)
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Saved money
+Social Lower class
+Muslim
+Lowest income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,52,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+32742,32742,IDN,1,2,1,1,1,1,1,2,2,1,2,2,1,1,2,2,1,1,2,1,2,2,1,1,2,2,1,3,2,2,2,3,2,2,4,4,2,2,4,2,2,2,1,1,1,2,19,1,1,1,360,360,360,1,5,3,9000,1,1,2,3,1,1,5,1,-2,10,10,2,2,2,2,1,5,360007," Female
+ 19 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 5 member in the respondent's family
+Live with parent(s) in law
+ Married
+Has 1 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Housewife not otherwise employed employment 
+- Spouse is Full-time employment.
+- Occupational group: No answer
+- Spouse's group: Farm owner or manager
+- Father's group: Farm owner or manager
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Just got by
+Social Upper middle class
+Muslim
+Lowest income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,19,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,0,1,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,5,0,0,0,0,1,0,0,0,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+35826,35826,IDN,1,1,1,4,1,1,1,1,1,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,2,3,3,2,2,3,2,2,2,4,2,2,4,4,4,1,1,1,1,1,28,1,1,1,360,360,360,1,5,1,9900,5,4,0,1,1,1,2,8,7,0,3,1,1,2,4,1,1,360999," Male
+ 28 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 5 member in the respondent's family
+does not live with parents
+ Widowed
+Has 4 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Part-time employment 
+- Spouse is Other employment.
+- Occupational group: Semi-skilled worker (e.g., bricklayer, bus driver, carpenter)
+- Spouse's group: Never had a job
+- Father's group: Clerical (e.g., secretary, clerk, civil servant)
+- belongs to Government or public institution sector
+- is chief wage earner in the house.
+Just got by
+Social Working class
+Roman Catholic
+Lowest income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,28,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,0,1,0,Low,1,0,0,1,0,1,0,0,0,0,0,0,0,0,African_Islamic,Other Education,0
+35640,35640,IDN,1,2,3,2,1,1,1,2,2,1,2,1,2,2,1,1,2,1,2,2,2,2,2,2,2,2,1,2,2,1,2,2,2,2,2,-1,4,1,4,2,2,2,3,1,1,2,33,1,1,1,360,360,360,1,5,1,9000,1,3,1,3,0,0,3,1,4,8,10,2,2,2,5,3,5,360020," Female
+ 33 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 5 member in the respondent's family
+does not live with parents
+ Married
+Has 3 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Self-employed employment 
+- Spouse is Full-time employment.
+- Occupational group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Spouse's group: Unskilled worker (e.g., labourer, cleaner)
+- Father's group: Farm owner or manager
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Just got by
+Social Lower class
+Muslim
+Low-medium income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,33,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+34062,34062,IDN,1,2,1,3,1,1,1,1,2,1,2,1,2,2,1,2,2,1,2,1,2,1,2,1,1,2,1,2,1,3,3,1,1,1,4,5,2,1,1,2,1,1,1,1,2,1,39,1,1,1,360,360,360,1,3,1,1890,1,0,6,3,3,6,1,1,3,3,1,2,1,2,3,7,5,360023," Male
+ 39 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 3 member in the respondent's family
+does not live with parents
+ Married
+Has 0 children
+Education level: Higher Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Higher Education
+Full-time employment 
+- Spouse is Full-time employment.
+- Occupational group: Clerical (e.g., secretary, clerk, civil servant)
+- Spouse's group: Clerical (e.g., secretary, clerk, civil servant)
+- Father's group: Professional and technical (e.g., doctor, teacher, engineer, accountant, nurse)
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Just got by
+Social Lower middle class
+Muslim
+Very high income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,39,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Higher Education,0
+35382,35382,IDN,1,1,1,1,1,1,1,1,2,2,2,1,2,2,1,2,1,1,2,2,2,1,2,1,1,2,1,2,1,3,3,1,2,2,2,4,1,1,2,2,4,2,1,1,1,2,24,1,1,1,360,360,360,1,10,2,410,1,3,3,3,3,3,2,2,1,7,1,1,2,2,5,7,5,360014," Female
+ 24 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 10 member in the respondent's family
+Live with own parent(s)
+ Married
+Has 3 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Part-time employment 
+- Spouse is Part-time employment.
+- Occupational group: Professional and technical (e.g., doctor, teacher, engineer, accountant, nurse)
+- Spouse's group: Semi-skilled worker (e.g., bricklayer, bus driver, carpenter)
+- Father's group: Professional and technical (e.g., doctor, teacher, engineer, accountant, nurse)
+- belongs to Government or public institution sector
+- Not chief wage earner in the house.
+Just got by
+Social Lower class
+Muslim
+Very high income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,24,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,1,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,2,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+72178,72178,SGP,1,2,3,3,3,2,1,1,2,1,2,2,1,2,2,1,2,1,2,2,2,2,2,1,2,1,2,3,3,3,3,2,2,1,4,4,2,3,2,4,4,2,3,1,3,1,81,2,2,2,360,360,360,1,3,1,9060,1,2,3,3,-1,0,4,5,7,4,-1,2,2,3,3,5,7,702004," Male
+ 81 years old
+ An immigrant
+Mother is an Immigrant
+Father is an Immigrant
+Indonesia
+The respondent is a citizen of this country.
+- There are 3 member in the respondent's family
+does not live with parents
+ Married
+Has 2 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Unknown
+- Father Education level: Other Education
+Retired employment 
+- Spouse is Housewife not otherwise employed employment.
+- Occupational group: Semi-skilled worker (e.g., bricklayer, bus driver, carpenter)
+- Spouse's group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Father's group: Don't know
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Spent some savings and borrowed money
+Social Lower middle class
+Buddhist
+Medium-high income group
+Unknown ethnic group
+Cultural region: West_South_Asia",1,0,81,1,0,1,0,1,0,SGP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,4,0,0,0,1,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Middle,0,1,0,7,0,0,0,0,0,0,0,1,0,0,West_South_Asia,Other Education,0
+33089,33089,IDN,1,2,2,3,1,1,1,2,1,1,2,1,1,2,2,2,2,1,2,2,2,1,2,1,1,2,1,3,2,3,2,2,2,2,4,4,2,2,2,4,2,2,1,2,2,2,25,1,1,1,360,360,360,1,8,2,1890,1,0,3,3,2,2,3,1,4,6,3,2,2,1,4,7,5,360999," Female
+ 25 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 8 member in the respondent's family
+Live with own parent(s)
+ Married
+Has 0 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Self-employed employment 
+- Spouse is Full-time employment.
+- Occupational group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Spouse's group: Skilled worker (e.g., foreman, electrician, printer)
+- Father's group: Clerical (e.g., secretary, clerk, civil servant)
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Saved money
+Social Working class
+Muslim
+Very high income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,25,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,1,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,3,0,0,1,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+33410,33410,IDN,1,2,1,3,1,1,1,1,2,1,2,2,1,2,1,2,2,1,2,1,1,1,2,1,1,2,1,3,1,3,2,3,1,1,2,4,1,4,1,4,2,2,1,3,2,2,49,1,1,1,360,360,360,1,4,1,1890,1,2,3,3,1,1,5,1,-2,4,7,2,2,3,3,6,5,360004," Female
+ 49 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 4 member in the respondent's family
+does not live with parents
+ Married
+Has 2 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Housewife not otherwise employed employment 
+- Spouse is Full-time employment.
+- Occupational group: No answer
+- Spouse's group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- Father's group: Semi-skilled worker (e.g., bricklayer, bus driver, carpenter)
+- belongs to Private business or industry sector
+- Not chief wage earner in the house.
+Spent some savings and borrowed money
+Social Lower middle class
+Muslim
+High income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,49,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,5,0,0,0,0,1,0,0,0,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+34109,34109,IDN,1,3,2,2,1,1,1,1,2,1,2,2,2,2,1,2,1,1,2,1,1,1,1,1,1,2,1,3,1,3,1,1,2,1,4,4,1,2,2,2,1,3,3,1,1,1,70,1,1,1,360,360,360,1,2,1,2030,5,5,1,3,1,1,3,5,9,0,4,2,1,4,3,1,5,360004," Male
+ 70 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 2 member in the respondent's family
+does not live with parents
+ Widowed
+Has 5 children
+Education level: Other Education
+- Spouse Education level: Other Education
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Self-employed employment 
+- Spouse is Housewife not otherwise employed employment.
+- Occupational group: Farm worker (e.g., farm labourer, tractor driver)
+- Spouse's group: Never had a job
+- Father's group: Sales (e.g., sales manager, shop assistant, insurance agent)
+- belongs to Private business or industry sector
+- is chief wage earner in the house.
+Spent savings and borrowed money
+Social Lower middle class
+Muslim
+Lowest income group
+Unknown ethnic group
+Cultural region: African_Islamic",1,0,70,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Low,1,0,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Other Education,0
+32859,32859,IDN,1,1,1,2,1,1,1,2,2,1,1,1,2,2,1,2,2,1,2,2,2,2,2,2,2,2,1,3,2,3,2,2,2,2,2,4,2,1,2,4,2,1,1,1,3,2,22,1,1,1,360,360,360,1,4,2,9000,6,0,5,-3,1,1,6,-3,0,-3,8,-3,2,2,2,6,5,360007," Female
+ 22 years old
+ A local person
+Mother is a local person
+Father is a local person
+Indonesia
+The respondent is a citizen of this country.
+- There are 4 member in the respondent's family
+Live with own parent(s)
+ Single
+Has 0 children
+Education level: Higher Education
+- Spouse Education level: Unknown
+- Mother Education level: Other Education
+- Father Education level: Other Education
+Student employment 
+- Spouse is No applicable/No spouse employment.
+- Occupational group: Never had a job
+- Spouse's group: No applicable/No spouse
+- Father's group: Unskilled worker (e.g., labourer, cleaner)
+- belongs to Not applicable; Never had a job sector
+- Not chief wage earner in the house.
+Just got by
+Social Upper middle class
+Muslim
+High income group
+Unknown ethnic group
+Cultural region: African_Islamic",0,1,22,0,1,0,1,0,1,IDN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,1,5,0,0,0,0,0,1,0,0,0,6,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Middle,0,1,0,5,0,0,0,0,0,1,0,0,0,0,African_Islamic,Higher Education,0
